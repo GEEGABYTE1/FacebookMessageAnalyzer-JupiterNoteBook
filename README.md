@@ -1,4 +1,4 @@
-# Facebook Message Sentiment Analyzer
+# Facebook Message Sentiment Analyzer  😂😃🙁
 
 This Facebook Message Analyzer will compare your sentiments during the conversation with another person.
 
